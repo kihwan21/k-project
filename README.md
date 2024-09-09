@@ -38,7 +38,7 @@
   - 재생 에너지 확대 및 국제적 협력 필요
 
 ## 팀원
-- **팀장**: 함현욱 (theswings501@gmail.com)
+- **팀장**: 함현욱
 - **팀원**: 김기환, 김홍철
 - [GitHub Repository](https://github.com/kihwan21/k-project)
 
